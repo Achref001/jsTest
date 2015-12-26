@@ -1,11 +1,13 @@
-# backoffice
+# backoffice : Test Javascript
+
 My answer for this js test contains 2 parts :
 
-A backoffice : it's a java rest webservice , i extended the .war file and i hosted it on the cloud (openshift cloud service) 
-		links : source code : i uploaded the source code on git : 
-		https://github.com/Achref001/jsTest
+*)A backoffice part : it's a java REST webservice , i extended the .war file and i hosted it on the cloud (openshift cloud service) 
+		links : i uploaded the source code on git : 
+		
+         source code : https://github.com/Achref001/jsTest
 			
 		cloud link : http://traedetest-soietyhealth.rhcloud.com/traedejstest/traede/Brands
 			
-A frontoffice :i it using angular JS . 
+*) A frontoffice part : I made it using angular JS . 
 
